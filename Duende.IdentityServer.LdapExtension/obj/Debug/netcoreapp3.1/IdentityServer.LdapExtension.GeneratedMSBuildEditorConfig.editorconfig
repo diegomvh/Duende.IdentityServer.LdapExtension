@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityServer.LdapExtension
+build_property.ProjectDir = /home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/

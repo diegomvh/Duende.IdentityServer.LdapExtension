@@ -1,0 +1,12 @@
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/bin/Debug/net7.0/Duende.IdentityServer.LdapExtension.deps.json
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/bin/Debug/net7.0/Duende.IdentityServer.LdapExtension.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/bin/Debug/net7.0/Duende.IdentityServer.LdapExtension.pdb
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.csproj.AssemblyReference.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.AssemblyInfoInputs.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.AssemblyInfo.cs
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.csproj.CoreCompileInputs.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/refint/Duende.IdentityServer.LdapExtension.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/Duende.IdentityServer.LdapExtension.pdb
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/Debug/net7.0/ref/Duende.IdentityServer.LdapExtension.dll

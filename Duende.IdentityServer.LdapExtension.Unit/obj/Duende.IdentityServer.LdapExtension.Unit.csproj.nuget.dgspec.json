@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/Duende.IdentityServer.LdapExtension.Unit.csproj": {}
+  },
+  "projects": {
+    "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/Duende.IdentityServer.LdapExtension.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/Duende.IdentityServer.LdapExtension.Unit.csproj",
+        "projectName": "Duende.IdentityServer.LdapExtension.Unit",
+        "projectPath": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/Duende.IdentityServer.LdapExtension.Unit.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.csproj": {
+                "projectPath": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "dotnet-xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.csproj": {
+      "version": "2.1.14",
+      "restore": {
+        "projectUniqueName": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.csproj",
+        "projectName": "Duende.IdentityServer.LdapExtension",
+        "projectPath": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Duende.IdentityServer": {
+              "target": "Package",
+              "version": "[6.3.6, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Novell.Directory.Ldap.NETStandard": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

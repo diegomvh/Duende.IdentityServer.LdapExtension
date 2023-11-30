@@ -1,0 +1,17 @@
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/bin/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.deps.json
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/bin/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.runtimeconfig.json
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/bin/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/bin/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.pdb
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/bin/Debug/net6.0/Duende.IdentityServer.LdapExtension.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/bin/Debug/net6.0/Duende.IdentityServer.LdapExtension.pdb
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.csproj.AssemblyReference.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.AssemblyInfoInputs.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.AssemblyInfo.cs
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.csproj.CoreCompileInputs.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.csproj.CopyComplete
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/refint/Duende.IdentityServer.LdapExtension.Unit.dll
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.pdb
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/Duende.IdentityServer.LdapExtension.Unit.genruntimeconfig.cache
+/home/diego/Workspace/DefensaChubut/Duende.IdentityServer.LdapExtension/Duende.IdentityServer.LdapExtension.Unit/obj/Debug/net6.0/ref/Duende.IdentityServer.LdapExtension.Unit.dll
